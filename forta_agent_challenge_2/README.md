@@ -2,7 +2,7 @@
 ## Description
 
 This agent detects if the fallback Oracle returned a price which 
-was 10% lower than the last price
+was 10% lower/larger than the last price
 ## Supported Chains
 
 - Ethereum
